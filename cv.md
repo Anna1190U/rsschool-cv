@@ -24,3 +24,18 @@
 
    * Programming languages and technologies: HTML,  CCS
 	Understanding of IT technologies and processes (SDLC)
+ * Freimvorks: bootstrap
+
+   * Tools: VS Code, Git, Zeplin, Avocode, Adobe Photoshop
+ ---
+  * #### Education:
+
+National University of Life and Environmental Sciences of Ukraine
+Business Administration 2013-2015 (MBA) (Master)
+
+National Academy of government Managerial Staff of Culture and Arts
+  Landscape designer 2007-2013 (Bachelor .Master)
+* #### Courses:
+   Coorsehunter, rs-school
+* #### English
+    B1
